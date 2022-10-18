@@ -1,0 +1,16 @@
+# CONFIG
+.env
+config.json
+
+# Folders
+build
+.vscode
+
+# Others
+memfs.qt.*
+*.expand
+*.bin
+*.o
+*.d
+*.a
+*.iso

@@ -1,0 +1,8 @@
+memfs - File System in Memory
+
+Brief: A userspace filesystem in memory
+Author: General Secretary
+LICENSE: GPL-3
+
+Required Tools:
+	gcc, make, pkg-config, libfuse3-dev fuse3
